@@ -1,0 +1,23 @@
+{
+  "name": "interval",
+  "version": "0.1.0",
+  "description": "A modern, customizable, abortable alternative to setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmaxmax/interval.git"
+  },
+  "keywords": [
+    "setInterval",
+    "interval"
+  ],
+  "author": "Teodor Maxim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmaxmax/interval/issues"
+  },
+  "homepage": "https://github.com/tmaxmax/interval#readme"
+}
